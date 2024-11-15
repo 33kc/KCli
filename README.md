@@ -17,13 +17,21 @@ To use on your machine:
 
 1. Install a C++ compiler (e.g., GCC or Clang).
 2. Clone the repository:
-  ``` git clone https://github.com/33kc/KCli.git```
+  ``` 
+git clone https://github.com/33kc/KCli.git`
+```
 3. Navigate to the project directory:
-   ```cd KCli```
+```
+cd KCli
+```
 4. Compile the code (ensure you're using a C++11 or later compiler (this is because i'm working on a file management system which only works with C++17)):
-  ``` g++ -std=c++17 -o kc kc.cpp```
-5. Run the program:
-  ``` ./kc <command> [args]```
+  ```
+g++ -std=c++17 -o kc kc.cpp
+```
+6. Run the program:
+  ```
+./kc <command> [args]
+```
 
 # Commands
 
@@ -50,3 +58,4 @@ To use on your machine:
 
 
 ### made about of pure boredom, brought to you by kc
+# oh and if you want it to be globally accessible, add kc.exe to your environmental variables
