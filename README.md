@@ -2,7 +2,7 @@
 
 `CLI` I made because I was bored.
 
-Features
+# Features
 
 - say <message>: Prints a penguin with a speech bubble and the provided message.
 - time [timezone]: Displays the current time, with an optional UTC offset.
@@ -11,7 +11,7 @@ Features
 - clear: Clears the screen.
 - about: Tells you about this CLI.
 
-Compilation and Usage
+# Compilation and Usage
 
 To use on your machine:
 
@@ -25,7 +25,7 @@ To use on your machine:
 5. Run the program:
   ``` ./kc <command> [args]```
 
-Commands
+# Commands
 
 - say <message>: Prints a penguin with a speech bubble. Example:
   kc say "Hello, world!"
@@ -49,4 +49,4 @@ Commands
   kc about
 
 
-made about of pure boredom, brought to you by kc
+### made about of pure boredom, brought to you by kc
