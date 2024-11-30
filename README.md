@@ -58,5 +58,5 @@ g++ -std=c++17 -o kc kc.cpp
 
 
 
- made about of pure boredom, brought to you by kc
+ made about of pure boredom, brought to you by kc <Br>
  oh and if you want it to be globally accessible, add kc.exe to your environmental variables
